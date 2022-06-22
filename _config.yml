@@ -1,1 +1,2 @@
 remote_theme: victorvoid/space-jekyll-template
+gems: [jekyll-mermaid]
